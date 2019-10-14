@@ -1,0 +1,4 @@
+#Files used for development that aren't of any use to users
+.vscode/
+_test.lua
+_output.txt
